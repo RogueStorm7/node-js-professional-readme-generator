@@ -53,4 +53,4 @@ This is a Node.js application that will help the user generate a professional RE
 ![badge size](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## Link to Deployed website: 
-    [View Live Site]
+    [View Live Site] (https://roguestorm7.github.io/node-js-professional-readme-generator-challenge/)
