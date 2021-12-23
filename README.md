@@ -53,4 +53,4 @@ Files included: package-lock.json, package.json.
 ![badge size](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## Link to Deployed website: 
-![View Live Site] <a href="https://roguestorm7.github.io/node-js-professional-readme-generator-challenge/">
+<a href="https://roguestorm7.github.io/node-js-professional-readme-generator-challenge/">
