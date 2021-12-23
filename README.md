@@ -31,7 +31,7 @@
 
 ## Installation 🧭:
 - [Pre-install inquirer](https://www.npmjs.com/package/inquirer)
-- [Clone-Repo]<a href="https://roguestorm7.github.io/node-js-professional-readme-generator-challenge/">
+- [Clone-Repo](git@github.com:RogueStorm7/node-js-professional-readme-generator-challenge.git)
     
 
 
