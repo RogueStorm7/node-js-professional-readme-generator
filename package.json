@@ -18,5 +18,6 @@
   "homepage": "https://github.com/RogueStorm7/node-js-professional-readme-generator-challenge#readme",
   "dependencies": {
     "inquirer": "^8.2.0"
-  }
+  },
+  "devDependencies": {}
 }
