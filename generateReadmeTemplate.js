@@ -3,7 +3,7 @@ function generateReadmeTemplate (data) {
 ${data.Title}
 ## Description
 ${data.Description}
-## Table of Contents
+## Table of  
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#Contributing)

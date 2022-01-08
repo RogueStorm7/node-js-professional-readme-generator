@@ -13,7 +13,7 @@ const questions = [
                 return true;
             } else {
                 console.log('Please provide a project title!');
-                return false; //console log to see it it works properly
+                return false; //console log to test and see if it works properly
             }
         }
     },
@@ -51,19 +51,6 @@ const questions = [
                 return true;
             } else {
                 console.log('Please enter a description!');
-                return false;
-            }
-        }
-    },
-    {
-        type: 'input',
-        name: 'usage',
-        message: 'Please provide information for using your application. (Required)',
-        validate: usageInput => {
-            if (usageInput) {
-                return true;
-            } else {
-                console.log('Please provide information for using your application!');
                 return false;
             }
         }
