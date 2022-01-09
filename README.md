@@ -49,7 +49,8 @@ This README.md Generator is a Node.js application that will help the user genera
 - Files included: package-lock.json, package.json.
 
 <details>
-<summary>Click to view</summary>
+<summary>Click to view Badges</summary>
+
 ![badge size](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 ![badge size](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![badge size](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -57,5 +58,5 @@ This README.md Generator is a Node.js application that will help the user genera
 </details>
     
 ## Link to Deployed website🔮: 
-[View Live Site]("https://roguestorm7.github.io/node-js-professional-readme-generator-challenge/")
+[View Live Site]("git@github.com:RogueStorm7/node-js-professional-readme-generator-challenge.git")
 &copy; 2021 Mianta McKnight
