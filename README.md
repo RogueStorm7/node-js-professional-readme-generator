@@ -47,12 +47,12 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 
-##  Preview: 
+## Preview: 
 - [Demo](https://watch.screencastify.com/v/Wv7fPDi2MPmMNLc1dIce)📷
 
 - **Screenshot** <image src="./images-preview-demo/professional readme generator screenshot1.png">
 
-##  Installation :
+## Installation :
 - [Pre-install npm inquirer](https://www.npmjs.com/package/inquirer)
 - Clone-Repo🧭
     
@@ -66,7 +66,7 @@ THEN I am taken to the corresponding section of the README
 ## Test
 - If there are additional changes you would like to make feel free to type in index.js and make changes until you have something you are satisfied with.
   
-##  License-Badges-Built with:
+## License-Badges-Built with:
 
 - 🧱 Files included: package-lock.json, package.json.
 
