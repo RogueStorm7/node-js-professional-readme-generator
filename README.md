@@ -52,7 +52,7 @@ THEN I am taken to the corresponding section of the README
 
 - **Screenshot** <image src="./images-preview-demo/professional readme generator screenshot1.png">
 
-## Installation :
+## Installation:
 - [Pre-install npm inquirer](https://www.npmjs.com/package/inquirer)
 - Clone-Repo🧭
     
