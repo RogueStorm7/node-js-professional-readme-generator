@@ -14,11 +14,13 @@
 
 * [Installation](#installation)  
 
-* [Usage](#usage)
+* [Usage Information](#usage-information)
 
 * [Test](#test)
 
 * [Built With](#built-with)
+
+* [Test](#test)
 
 * [Badges](#badges)
 
@@ -66,7 +68,7 @@ THEN I am taken to the corresponding section of the README
 ## Test
 - If there are additional changes you would like to make feel free to type in index.js and make changes until you have something you are satisfied with.
   
-## License-Badges-Built with:
+## Badges:
 
 - 🧱 Files included: package-lock.json, package.json.
 
