@@ -18,10 +18,6 @@
 
 * [Test](#test)
 
-* [Built With](#built-with)
-
-* [Test](#test)
-
 * [Badges](#badges)
 
 * [RogueStorm7-livesite](#RogueStorm7-livesite)
