@@ -5,27 +5,29 @@
 
   <summary>Click to see Contents</summary>
 
-[Description](#description)
 
-[User Story](#user-story)
+* [Description](#description)
 
-[Preview](#preview)
+* [User Story](#user-story)
 
-[Installation](#installation)  
+* [Preview](#preview)
 
-[Usage](#usage)
+* [Installation](#installation)  
 
-[Test](#test)
+* [Usage](#usage)
 
-[Built With](#built-with)
+* [Test](#test)
 
-[Badges](#badges)
+* [Built With](#built-with)
 
-[RogueStorm7-livesite](#RogueStorm7-livesite)
+* [Badges](#badges)
+
+* [RogueStorm7-livesite](#RogueStorm7-livesite)
 
 </details>
 
-## 🗺️ Description :
+##  Description :
+🗺️
 This README.md Generator is a Node.js application that will help the user generate a professional README.md. file. There are a few things that should be included in a professional high quality README.md are the following: what the app is for, how to install it, how to make contributions; which allows other developers to contribute to the success of the project, and lastly, how to report an issue which is possible through testing. The information needed to help the user understand the project is vital so a good description and outline for them to follow makes that possible.
 
 ## User Story
@@ -45,17 +47,17 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 
-## 📷 Preview: 
-- [Demo](https://watch.screencastify.com/v/Wv7fPDi2MPmMNLc1dIce)
+##  Preview: 
+- [Demo](https://watch.screencastify.com/v/Wv7fPDi2MPmMNLc1dIce)📷
 
 - **Screenshot** <image src="./images-preview-demo/professional readme generator screenshot1.png">
 
-## 🧭 Installation :
+##  Installation :
 - [Pre-install npm inquirer](https://www.npmjs.com/package/inquirer)
-- Clone-Repo
+- Clone-Repo🧭
     
 
-## 🎫 Usage Information: 
+## Usage Information: 
 - Open terminal
 - Type 'node index.js'
 - Answer the prompts that follow
@@ -64,9 +66,9 @@ THEN I am taken to the corresponding section of the README
 ## Test
 - If there are additional changes you would like to make feel free to type in index.js and make changes until you have something you are satisfied with.
   
-## 🧱 License-Badges-Built with:
+##  License-Badges-Built with:
 
-- Files included: package-lock.json, package.json.
+- 🧱 Files included: package-lock.json, package.json.
 
 [![CC0 License](https://img.shields.io/badge/License-CC0-orange)](https://choosealicense.com/licenses/cc0)
 ![badge size](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
