@@ -26,7 +26,7 @@
 
 </details>
 
-##  Description :
+## Description :
 🗺️
 This README.md Generator is a Node.js application that will help the user generate a professional README.md. file. There are a few things that should be included in a professional high quality README.md are the following: what the app is for, how to install it, how to make contributions; which allows other developers to contribute to the success of the project, and lastly, how to report an issue which is possible through testing. The information needed to help the user understand the project is vital so a good description and outline for them to follow makes that possible.
 
